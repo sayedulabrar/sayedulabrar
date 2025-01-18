@@ -1,13 +1,17 @@
+<div align="center">
 <h1>Hi 👋, I'm Sayedul Abrar</h1>
 <h3>An innovative Software Engineer with expertise in Flutter, Firebase, Laravel, and AI integration</h3>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> 
 
+<div align="left">
+  
 ### About Me
 - 🔭 Currently working on innovative Flutter and Laravel projects
 - 🌱 Exploring AI integration and serverless architectures
 - 💬 Ask me about Flutter, Firebase, Laravel, and AI integration
 - 📫 Reach me at: sayedulabrar14045@gmail.com
+</div>
 
 ### Connect With Me
 <p>
@@ -41,22 +45,31 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </p>
 
+<div align="left">
+  
 ### Recent Projects
 - 🔒 **Secure Chat App**: End-to-end encrypted messaging application with advanced security features
 - 📱 **WhatsApp Auto Backup**: Automated tool for backing up WhatsApp media and documents in real-time
 - 💼 **Professional SaaS Application**: A multi-tenant platform enabling large-scale shops to manage POS systems and employees independently.
+</div>
 
-<table>
+</div>
+
+<table align="center">
   <tr>
-    
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=sayedulabrar&show_icons=true&locale=en" alt="sayedulabrar" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayedulabrar&" alt="sayedulabrar" /></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedulabrar&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=sayedulabrar&show_icons=true&locale=en" alt="GitHub Stats" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedulabrar&" alt="GitHub Streak" /></td>
   </tr>
 </table>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sayedulabrar/sayedulabrar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sayedulabrar/sayedulabrar/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sayedulabrar/sayedulabrar/output/github-snake.svg" />
+  </picture>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sayedulabrar/sayedulabrar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sayedulabrar/sayedulabrar/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sayedulabrar/sayedulabrar/output/github-snake.svg" />
-</picture>
