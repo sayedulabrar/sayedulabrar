@@ -60,7 +60,7 @@
     <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=sayedulabrar&show_icons=true&locale=en" alt="GitHub Stats" /></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedulabrar&" alt="GitHub Streak" /></td>
+    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedulabrar" alt="GitHub Streak" /></td>
   </tr>
 </table>
 
