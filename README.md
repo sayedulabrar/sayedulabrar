@@ -55,10 +55,35 @@
 </div>
 
 <table align="center">
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedulabrar&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=sayedulabrar&show_icons=true&locale=en" alt="GitHub Stats" /></td>
-  </tr>
+<tr>
+  <td align="center">
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sayedulabrar&show_icons=true&locale=en&layout=compact&theme=dark" 
+        media="(prefers-color-scheme: dark)" />
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sayedulabrar&show_icons=true&locale=en&layout=compact&theme=light" 
+        media="(prefers-color-scheme: light)" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedulabrar&show_icons=true&locale=en&layout=compact" 
+        alt="Top Languages" />
+    </picture>
+  </td>
+  <td align="center">
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=sayedulabrar&show_icons=true&locale=en&theme=dark" 
+        media="(prefers-color-scheme: dark)" />
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=sayedulabrar&show_icons=true&locale=en&theme=light" 
+        media="(prefers-color-scheme: light)" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=sayedulabrar&show_icons=true&locale=en" 
+        alt="GitHub Stats" />
+    </picture>
+  </td>
+</tr>
+
   <tr>
     <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedulabrar" alt="streak.svg" /></td>
   </tr>
