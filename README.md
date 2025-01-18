@@ -1,8 +1,8 @@
 <img src="drip4.png" alt="GitHub Banner" style="width: 100%; margin-bottom: -20%; display: block;"/>
 <div align="center" style="margin: 0; padding: 0;">
    
-<h1 align="center">Hi 👋, I'm Sayedul Abrar</h1> 
-<h3 align="center">An innovative Software Engineer with expertise in Flutter, Firebase, Laravel, and AI integration</h3>
+
+<h2 align="center">Hi 👋, I'm Sayedul Abrar,an innovative Software Engineer with expertise in Flutter, Firebase, Laravel, and AI integration</h2>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> 
 
