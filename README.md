@@ -1,4 +1,4 @@
-<img src="my_Banner.png" alt="GitHub Banner" width="100%" />
+<img src="Final_Banner.png" alt="GitHub Banner" width="100%" />
 <div align="center">
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> 
