@@ -85,9 +85,6 @@
   </td>
 </tr>
 
-  <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedulabrar" alt="streak.svg" /></td>
-  </tr>
 </table>
 
 <div align="center">
