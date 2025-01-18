@@ -1,4 +1,4 @@
-<img src="drip5.png" alt="GitHub Banner" style="width: 100%; margin-bottom: -20%; display: block;"/>
+<img src="drip6.png" alt="GitHub Banner" />
 <div align="center" style="margin: 0; padding: 0;">
 
 
