@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Sayedul Abrar</h1>
 <h3>An innovative Software Engineer with expertise in Flutter, Firebase, Laravel, and AI integration</h3>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> 
 
 ### About Me
 - 🔭 Currently working on innovative Flutter and Laravel projects
@@ -46,11 +46,13 @@
 - 📱 **WhatsApp Auto Backup**: Automated tool for backing up WhatsApp media and documents in real-time
 - 💼 **Professional SaaS Application**: A multi-tenant platform enabling large-scale shops to manage POS systems and employees independently.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedulabrar&show_icons=true&locale=en&layout=compact" alt="sayedulabrar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayedulabrar&show_icons=true&locale=en" alt="sayedulabrar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayedulabrar&" alt="sayedulabrar" /></p>
+<table>
+  <tr>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedulabrar&show_icons=true&locale=en&layout=compact" alt="sayedulabrar" /></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=sayedulabrar&show_icons=true&locale=en" alt="sayedulabrar" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayedulabrar&" alt="sayedulabrar" /></td>
+  </tr>
+</table>
 
 
 <picture>
