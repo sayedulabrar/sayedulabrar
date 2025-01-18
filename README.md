@@ -1,4 +1,4 @@
-<img src="drip.png" alt="GitHub Banner" width="100%" />
+<img src="drip-removebg-preview.png" alt="GitHub Banner" width="100%" />
 <div align="center">
   
 <h1 align="center">Hi 👋, I'm Sayedul Abrar</h1> 
